@@ -231,7 +231,7 @@
 
 
 .section-title_theme_dark {
-  position: relative;    
+  position: relative;   
   text-align: center;
   color: white;
   width: 60%;
@@ -242,8 +242,8 @@
 }
 
 .section-subtitle_theme_dark {
-  position: relative; 
-  z-index: 1; 
+  position: relative;
+  z-index: 1;
   text-align: center;
   color: white;
   width: 60%;
@@ -263,8 +263,8 @@
 
 
 .table__cell_theme_dark {
-  position: relative; 
-  z-index: 1; 
+  position: relative;
+  z-index: 1;
   width: 200px;
   color: white;
   margin-right: 0;
@@ -280,7 +280,7 @@
   margin-top: 20px;
   font-size: 18px;
   font-weight: normal;
-  line-height: 1.2; 
+  line-height: 1.2;
 }
 
 .footer {
@@ -326,7 +326,7 @@
 
 .footer__column-heading {
   color: white;
-  justify-content: flex-end; 
+  justify-content: flex-end;
   margin-bottom: 20px;
   line-height: 30px;
   font-size: 18px;
