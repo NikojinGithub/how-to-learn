@@ -1,7 +1,5 @@
-.description {                 /*<---Меня код первого спринта тут, из за oakley*/
-    display: flex;
-    margin-top: 100px;
-    /*align-self: center;*/
-    justify-content: center;
-    /*width: 80%;*/
-  }
+.description {                 
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+}
