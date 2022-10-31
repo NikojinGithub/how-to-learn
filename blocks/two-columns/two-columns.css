@@ -1,0 +1,6 @@
+.two-columns {                    /*<---Меня код первого спринта тут, из за oakley*/
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    /*min-width: 784px;*/
+  }
